@@ -1,0 +1,30 @@
+Initially you will have 3 lives.
+After the first level up you will get 1 bonus life.
+After that, for evry 3 level ups you will get 1 bonus life.
+However, your life at a time can't exeed 5.
+
+Your job is to go as far as you can before your life reaches 0.
+
+
+Car Control:
+
+Accelerator - w/ARROW_UP
+Reverse - s/ARROW_DOWN
+Left - a/ARROW_LEFT
+RIGHT - d/ARROW_RIGHT
+Break - SPACE
+
+
+Other Controls:
+
+Back/Pause - ESC
+Help - F1
+Settings - F2
+Change music - F3
+Toggle n/ff music - F4
+Next/Save - ENTER
+Next - SPACE
+
+* use w, s, ARROW_UP, ARROW_DOWN, PAGE_UP, PAGE_DOWN to navigate level selection
+* use a, d, ARROW_LEFT, ARROW_RIGHT to navigate car selection
+** Click on the text box to start typing. Press ENTER/ESC or click out of the field to stop typing
