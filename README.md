@@ -15,6 +15,9 @@ Bugs:
 Design Flaws:
 
 
+Laguage used: C/C++
+Library for gui: iGraphics(based on opengl and glut)
+
 ..
 to run the project simlply run the exe file.
 and for any in game instructions/help/button functions press F1 or navigate to help page or read the intruction_new.txt
