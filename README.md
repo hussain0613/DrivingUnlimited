@@ -1,5 +1,7 @@
 # DrivingUnlimited
 
+To try simply download and run DrivingUnlimited(Test).exe
+
 This is our project for 1st year 2nd semester Software Development course.
 
 This is car driving game where your select one of varius cars, chooese your level and drive car through busy road.
